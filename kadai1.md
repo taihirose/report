@@ -32,5 +32,4 @@ pause; % 一時停止
 IMG = imresize(IMG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,32,'box'); % 画像の拡大
 imagesc(IMG2); axis image; % 画像の表示
-
-kadai1-3.png
+https://user-images.githubusercontent.com/35332761/34919664-f6a6235c-f9aa-11e7-8a24-91e503cf05c5.png
